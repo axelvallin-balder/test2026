@@ -2,3 +2,4 @@ node_modules
 .dev
 assets
 package-lock.json
+*.ts
